@@ -21,7 +21,7 @@ I'm also an educational coding content creator, sharing my coding passion, and a
 
 
 ## 🌐 Connect with me:
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amber-yufang-chiu](https://www.linkedin.com/in/erik-cupsa/))
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-cupsa/)
 
 # 💻 Tech Stack:
 Languages: 
