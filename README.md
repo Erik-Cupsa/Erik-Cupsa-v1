@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 I'm Erik Cupsa</h1>
-<h3 align="center">A passionate software engineer from Canada</h3>
 
 # 💫 About Me:
 I am a third-year computer engineering student at McGill University, passionate about exploring the realms of coding, machine learning, and building robust applications.
