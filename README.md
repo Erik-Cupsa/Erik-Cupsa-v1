@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋 I'm Erik Cupsa</h1>
 <h3 align="center">A passionate software engineer from Canada</h3>
 
-<p align="left">![IMG_2048](https://github.com/Erik-Cupsa/Erik-Cupsa/assets/86483911/433dde84-9dd3-49b2-a99f-7d91ee3c401e)</p>
-
 # 💫 About Me:
 I am a third-year computer engineering student at McGill University, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
